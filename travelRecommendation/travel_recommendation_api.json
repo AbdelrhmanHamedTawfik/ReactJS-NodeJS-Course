@@ -1,0 +1,81 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sydney, Australia",
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwdEeF6AMT40QuMQdYjnw2K8CLk3oH04CXxeRTf9SO-bHy-ZD75D895sBBkMrb8QTTsfzlVbpYMEdhfxMwy0j7jU9IifHOGolGAqrny4h6o2A8kJNrSN3nuD72gNEJBxumxl20=w540-h312-n-k-no",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYRB93OgaBlXleyqJcgYQ0xpbSZ6CKGNm5GjtdGc9tL8gQw3oS9N-wv2CLf3WmIT5UCSZwAyS6SH4Bl_-b2CEEozKjBDOnp46n1p00kU37ZD4s4c5yIpGgAJu9FSTJDU68T3em=w540-h312-n-k-no",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbJmHa-l27Ngoce3t2isLX-fu2VdkogS8yHJKw6kTRMs7Ezw3jm-aGH9GAFOss-dWeSgqeFXymLhiWde_wQwhk3XuWUFaiJDzijf5wkGytK-tX713P3X9uhY6dDVhXSRtU8WA=w540-h312-n-k-no",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqw92eKGqEl4uXgKf6PnQe9JkLRFmqtnq6dDmeoE9l0peAU70pc7PBs9984Zd73C8LfxdrOF95giRukyt1-_ddrbUzHygm29rfZfVLAkSeMty-wy0TfgEAvI5nXxqmitaVOd3-mvA=w540-h312-n-k-no",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqZwva9VxuJFfPbdaa-sTeV4aerUfxerkBvGeLnvslaBxJ9nRZmX24gA0LK0grGUURG4xIiQU_DGROTLq1AqFz-BQA2py0tcqS4smjT-8ndyhG428SEMmorMKBGVhpWz47YF86NDA=w540-h312-n-k-no",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRf2Ni3-kjB1msEzlCXrErGWUStXMLqILOXAsVc5QMuwahJolP6deEQzyVR2Sgq8bqCoN-5Ngz9hOPnzhP2uvc_E4R94oNA7-K6v9uwgQ",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Cambodia",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq0uUgclgG5YkHhYpnhISxb0-fAj6yUPCiYe6xRwW8IkvbUmt1fQCuPoOPjtO4XqTGGZ-joNX2RO7Ifbya-rrVY3au9zfr2cXbP_HTn6gTx3AiMFwcUwQ9NbQI3y-pE7N9R1ahB=w270-h312-n-k-no",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEZMj_geXSnQ2BonHsAfYqgbWSgA7NiAidHSccUDwgAl1GO380LmdgUkdDWmTIsJunATvGBwQVnWUUjGjehuGxJ-l7KJWC04qSZCVWg2bwQRGDiHyJTj_Rgxm_FKgo6s4Gcw09=w270-h312-n-k-no",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noV4fGt_UE9IuRe0U3eXepJdhHURjB-UlWYwBlmoUgy5lsAOegZ66qmLlQpSo1QCcce2t4avwjxwBgIzuA8lHYZFrfYgYL9MwsSSUKR9Dw3Bc4NaG8KhbS9g9WT4qo0aOA-Z6cd=w540-h312-n-k-no",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "id": 2,
+        "name": "Copacabana Beach, Brazil",
+        "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noq0HsIu5l89qerT5ZSJ2AaILnSy9RTKmr1Ojd2emqNlNLcq58za7zHK1XwJH6V1v06qQl9NEQP7SlmjvFS80GGUHl7O_t7-ldCTpYcMib7y7-Ebbfd86ChJzZOK8DahrEvcjex=w540-h312-n-k-no",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
+  }
+  
